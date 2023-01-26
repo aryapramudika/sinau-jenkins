@@ -1,4 +1,4 @@
 # sinau-jenkins
 Sinau Jenkins Repo
 
-## Nyinauni ci/cd nganggo jenkins
+Nyinauni ci/cd nganggo jenkins
